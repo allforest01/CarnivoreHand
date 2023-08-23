@@ -1,0 +1,4 @@
+opencv-python==4.8.0.76
+pygame==2.5.1
+Pillow==10.0.0
+mediapipe==0.10.3
